@@ -1,0 +1,30 @@
+h1{
+    color: white;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-left: 120px;
+}
+
+
+p{
+    color: white;
+     margin-left: 40%;
+}
+
+
+html{
+    background-color: black;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+
+div{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 80%;
+    height:60%;
+}
